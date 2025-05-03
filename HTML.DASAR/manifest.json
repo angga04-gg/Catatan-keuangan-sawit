@@ -1,0 +1,21 @@
+{
+    "name": "Keuangan Kelapa Sawit",
+    "short_name": "Kelapa Sawit",
+    "description": "Aplikasi catatan keuangan untuk usaha kelapa sawit",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#f3f4f6",
+    "theme_color": "#16a34a",
+    "icons": [
+        {
+            "src": "https://via.placeholder.com/192x192.png?text=KS",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://via.placeholder.com/512x512.png?text=KS",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
